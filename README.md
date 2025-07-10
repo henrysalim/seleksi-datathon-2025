@@ -1,7 +1,3 @@
-Berikut versi yang sudah **rapi**, dengan teks *Abstrak* ter-*justify*, dan setiap *requirements* diberi tautan dokumentasi resminya:
-
----
-
 # Pemanfaatan Computer Vision dan Explainable Artificial Intelligence untuk Mendeteksi Cacat Mikro Hasil Produksi Manufaktur
 
 ## Penyusun
